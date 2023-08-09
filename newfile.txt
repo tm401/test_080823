@@ -1,0 +1,6 @@
+total 16
+drwxrwxr-x 3 tim tim 4096 Aug  8 20:12 ./
+drwxrwxr-x 3 tim tim 4096 Aug  8 20:02 ../
+drwxrwxr-x 8 tim tim 4096 Aug  8 20:03 .git/
+-rw-rw-r-- 1 tim tim    0 Aug  8 20:12 myfile.txt
+-rw-rw-r-- 1 tim tim   13 Aug  8 20:03 README.md
